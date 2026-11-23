@@ -1,0 +1,154 @@
+[
+    {
+        "id_pakaian": 1,
+        "file_name": "atasan_1_blouse_beige.jpg",
+        "file_path": "images\\atasan_1_blouse_beige.jpg",
+        "nama_item": "Atasan 1 Blouse Beige",
+        "kategori": "atasan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 2,
+        "file_name": "atasan_2_crop_top_cokelat.jpg",
+        "file_path": "images\\atasan_2_crop_top_cokelat.jpg",
+        "nama_item": "Atasan 2 Crop Top Cokelat",
+        "kategori": "atasan",
+        "kelompok_warna": "hangat"
+    },
+    {
+        "id_pakaian": 3,
+        "file_name": "atasan_3_kaos_hitam.jpg",
+        "file_path": "images\\atasan_3_kaos_hitam.jpg",
+        "nama_item": "Atasan 3 Kaos Hitam",
+        "kategori": "atasan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 4,
+        "file_name": "atasan_4_kemeja_putih.jpg",
+        "file_path": "images\\atasan_4_kemeja_putih.jpg",
+        "nama_item": "Atasan 4 Kemeja Putih",
+        "kategori": "atasan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 5,
+        "file_name": "atasan_5_kaos_pink.jpg",
+        "file_path": "images\\atasan_5_kaos_pink.jpg",
+        "nama_item": "Atasan 5 Kaos Pink",
+        "kategori": "atasan",
+        "kelompok_warna": "hangat"
+    },
+    {
+        "id_pakaian": 6,
+        "file_name": "atasan_6_sweater_navy.jpg",
+        "file_path": "images\\atasan_6_sweater_navy.jpg",
+        "nama_item": "Atasan 6 Sweater Navy",
+        "kategori": "atasan",
+        "kelompok_warna": "dingin"
+    },
+    {
+        "id_pakaian": 7,
+        "file_name": "atasan_7_overshirt_olive.jpg",
+        "file_path": "images\\atasan_7_overshirt_olive.jpg",
+        "nama_item": "Atasan 7 Overshirt Olive",
+        "kategori": "atasan",
+        "kelompok_warna": "dingin"
+    },
+    {
+        "id_pakaian": 8,
+        "file_name": "atasan_8_hoodie_abu.jpg",
+        "file_path": "images\\atasan_8_hoodie_abu.jpg",
+        "nama_item": "Atasan 8 Hoodie Abu",
+        "kategori": "atasan",
+        "kelompok_warna": "dingin"
+    },
+    {
+        "id_pakaian": 9,
+        "file_name": "atasan_9_denim_shirt_biru.jpg",
+        "file_path": "images\\atasan_9_denim_shirt_biru.jpg",
+        "nama_item": "Atasan 9 Denim Shirt Biru",
+        "kategori": "atasan",
+        "kelompok_warna": "dingin"
+    },
+    {
+        "id_pakaian": 10,
+        "file_name": "bawahan_10_chinos_khaki.jpg",
+        "file_path": "images\\bawahan_10_chinos_khaki.jpg",
+        "nama_item": "Bawahan 10 Chinos Khaki",
+        "kategori": "bawahan",
+        "kelompok_warna": "hangat"
+    },
+    {
+        "id_pakaian": 11,
+        "file_name": "bawahan_1_wide_leg_putih.jpg",
+        "file_path": "images\\bawahan_1_wide_leg_putih.jpg",
+        "nama_item": "Bawahan 1 Wide Leg Putih",
+        "kategori": "bawahan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 12,
+        "file_name": "bawahan_2_rok_plisket_hitam.jpg",
+        "file_path": "images\\bawahan_2_rok_plisket_hitam.jpg",
+        "nama_item": "Bawahan 2 Rok Plisket Hitam",
+        "kategori": "bawahan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 13,
+        "file_name": "bawahan_3_rok_midi_denim.jpg",
+        "file_path": "images\\bawahan_3_rok_midi_denim.jpg",
+        "nama_item": "Bawahan 3 Rok Midi Denim",
+        "kategori": "bawahan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 14,
+        "file_name": "bawahan_4_formal_navy.jpg",
+        "file_path": "images\\bawahan_4_formal_navy.jpg",
+        "nama_item": "Bawahan 4 Formal Navy",
+        "kategori": "bawahan",
+        "kelompok_warna": "dingin"
+    },
+    {
+        "id_pakaian": 15,
+        "file_name": "bawahan_5_cargo_cokelat.jpg",
+        "file_path": "images\\bawahan_5_cargo_cokelat.jpg",
+        "nama_item": "Bawahan 5 Cargo Cokelat",
+        "kategori": "bawahan",
+        "kelompok_warna": "hangat"
+    },
+    {
+        "id_pakaian": 16,
+        "file_name": "bawahan_6_sweatpants_abu.jpg",
+        "file_path": "images\\bawahan_6_sweatpants_abu.jpg",
+        "nama_item": "Bawahan 6 Sweatpants Abu",
+        "kategori": "bawahan",
+        "kelompok_warna": "dingin"
+    },
+    {
+        "id_pakaian": 17,
+        "file_name": "bawahan_7_corduroy_merah_bata.jpg",
+        "file_path": "images\\bawahan_7_corduroy_merah_bata.jpg",
+        "nama_item": "Bawahan 7 Corduroy Merah Bata",
+        "kategori": "bawahan",
+        "kelompok_warna": "hangat"
+    },
+    {
+        "id_pakaian": 18,
+        "file_name": "bawahan_8_linen_shorts_putih.jpg",
+        "file_path": "images\\bawahan_8_linen_shorts_putih.jpg",
+        "nama_item": "Bawahan 8 Linen Shorts Putih",
+        "kategori": "bawahan",
+        "kelompok_warna": "netral"
+    },
+    {
+        "id_pakaian": 19,
+        "file_name": "bawahan_9_jeans_biru.jpg",
+        "file_path": "images\\bawahan_9_jeans_biru.jpg",
+        "nama_item": "Bawahan 9 Jeans Biru",
+        "kategori": "bawahan",
+        "kelompok_warna": "dingin"
+    }
+]
